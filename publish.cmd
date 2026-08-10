@@ -11,7 +11,4 @@ dotnet publish WeekIcon.csproj ^
 
 "C:\Program Files (x86)\NSIS\makensis.exe" install.nsi
 
-copy /y *-setup.exe  "C:\Users\gerneu\My Drive\"
-
 pause
-
